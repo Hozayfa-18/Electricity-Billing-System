@@ -32,7 +32,8 @@ Java communicates with MySQL tables using JDBC.
 
 ## Login
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Login.JPG" width="400" height="300">
+![login](https://github.com/Hozayfa-18/Electricity-Billing-System/assets/80411230/c1b5aecb-f751-4ec1-bf01-89c07db683c3)
+
 
 ## Main Page
 
@@ -40,7 +41,8 @@ Java communicates with MySQL tables using JDBC.
 
 ## Add Customer
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/AddC.JPG" width="500" height="500">
+![add-customer](https://github.com/Hozayfa-18/Electricity-Billing-System/assets/80411230/93744fe6-6785-4544-96b8-c158a076674e)
+
 
 ## Calculate Bill
 
