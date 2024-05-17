@@ -37,7 +37,8 @@ Java communicates with MySQL tables using JDBC.
 
 ## Main Page
 
-<img src="https://github.com/Adarsh9616/Electricity_Billing_System/blob/master/ScreenShots/Main.JPG" width="600" height="500">
+![main](https://github.com/Hozayfa-18/Electricity-Billing-System/assets/80411230/e16d1615-7e45-4eb2-bbc5-4d2ec6212d5a)
+
 
 ## Add Customer
 
